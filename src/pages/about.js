@@ -62,7 +62,7 @@ const about = () => {
                         Biography
                     </h2>
                     <p className='font-medium'>
-                    Hi, I'm Yik Khong Ho, a results-oriented Developer currently contributing my skills at Aioi Nissay Dowa EU.
+                    Hi, I&apos;m Yik Khong Ho, a results-oriented Developer currently contributing my skills at Aioi Nissay Dowa EU.
                     With a solid foundation in Java programming, business process management, and data integration, I bring a 
                     proactive and innovative approach to software development.
                      </p>
